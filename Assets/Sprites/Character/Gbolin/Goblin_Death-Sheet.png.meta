@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 12c90aa3caac2414dae0206416d29bad
+guid: 72c1492b06cc03c498dcd5b62a81810c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9195357573080312666
-    second: Luby_Bow_Pull-Sheet_0
+      213: 8091293201939813135
+    second: Goblin_Death-Sheet_0
   - first:
-      213: 2980865475448496137
-    second: Luby_Bow_Pull-Sheet_1
+      213: -6039291154358216212
+    second: Goblin_Death-Sheet_1
   - first:
-      213: 7199484183846541461
-    second: Luby_Bow_Pull-Sheet_2
+      213: -1989087479859156537
+    second: Goblin_Death-Sheet_2
   - first:
-      213: 7586641798737491029
-    second: Luby_Bow_Pull-Sheet_3
+      213: -7752731417133352930
+    second: Goblin_Death-Sheet_3
+  - first:
+      213: 5705505585320495162
+    second: Goblin_Death-Sheet_4
+  - first:
+      213: -5347859721838728272
+    second: Goblin_Death-Sheet_5
+  - first:
+      213: -4249493860598006331
+    second: Goblin_Death-Sheet_6
+  - first:
+      213: 7581369464452211025
+    second: Goblin_Death-Sheet_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +70,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -79,7 +91,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -91,7 +103,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -103,7 +115,7 @@ TextureImporter:
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -115,7 +127,7 @@ TextureImporter:
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -127,7 +139,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -139,7 +151,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -151,7 +163,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_0
+      name: Goblin_Death-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -165,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5b662e5ef87c9f70800000000000000
-      internalID: 9195357573080312666
+      spriteID: f03d7233c4c0a4070800000000000000
+      internalID: 8091293201939813135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_1
+      name: Goblin_Death-Sheet_1
       rect:
         serializedVersion: 2
         x: 32
@@ -186,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 900655b4b592e5920800000000000000
-      internalID: 2980865475448496137
+      spriteID: ce9d15151b0203ca0800000000000000
+      internalID: -6039291154358216212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_2
+      name: Goblin_Death-Sheet_2
       rect:
         serializedVersion: 2
         x: 64
@@ -207,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598573088b4b9e360800000000000000
-      internalID: 7199484183846541461
+      spriteID: 7c961d7c9775564e0800000000000000
+      internalID: -1989087479859156537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_3
+      name: Goblin_Death-Sheet_3
       rect:
         serializedVersion: 2
         x: 96
@@ -228,8 +240,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 554f0eb258a294960800000000000000
-      internalID: 7586641798737491029
+      spriteID: e1871c21ad3c86490800000000000000
+      internalID: -7752731417133352930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38090dc9170e2f40800000000000000
+      internalID: 5705505585320495162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbee2bcae598c5b0800000000000000
+      internalID: -5347859721838728272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd3adb39d3c605c0800000000000000
+      internalID: -4249493860598006331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151eaaf2c5f663960800000000000000
+      internalID: 7581369464452211025
       vertices: []
       indices: 
       edges: []

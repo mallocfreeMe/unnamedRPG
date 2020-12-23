@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 12c90aa3caac2414dae0206416d29bad
+guid: 4346724cdd11241488ef04f0b9f942c3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9195357573080312666
-    second: Luby_Bow_Pull-Sheet_0
+      213: 3779915809296359862
+    second: Luby_Move-Sheet 1_0
   - first:
-      213: 2980865475448496137
-    second: Luby_Bow_Pull-Sheet_1
+      213: -3001494069700881093
+    second: Luby_Move-Sheet 1_1
   - first:
-      213: 7199484183846541461
-    second: Luby_Bow_Pull-Sheet_2
+      213: 8951821012198902193
+    second: Luby_Move-Sheet 1_2
   - first:
-      213: 7586641798737491029
-    second: Luby_Bow_Pull-Sheet_3
+      213: -1117286017733672728
+    second: Luby_Move-Sheet 1_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -79,7 +79,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -91,7 +91,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -103,7 +103,7 @@ TextureImporter:
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -115,7 +115,7 @@ TextureImporter:
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -127,7 +127,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -139,7 +139,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -151,7 +151,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_0
+      name: Luby_Move-Sheet 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -165,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5b662e5ef87c9f70800000000000000
-      internalID: 9195357573080312666
+      spriteID: 6b12ef5d665f47430800000000000000
+      internalID: 3779915809296359862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_1
+      name: Luby_Move-Sheet 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -186,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 900655b4b592e5920800000000000000
-      internalID: 2980865475448496137
+      spriteID: b359904db0d8856d0800000000000000
+      internalID: -3001494069700881093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_2
+      name: Luby_Move-Sheet 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -207,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598573088b4b9e360800000000000000
-      internalID: 7199484183846541461
+      spriteID: 1b94ef428c14b3c70800000000000000
+      internalID: 8951821012198902193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_3
+      name: Luby_Move-Sheet 1_3
       rect:
         serializedVersion: 2
         x: 96
@@ -228,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 554f0eb258a294960800000000000000
-      internalID: 7586641798737491029
+      spriteID: 8e04978594a9e70f0800000000000000
+      internalID: -1117286017733672728
       vertices: []
       indices: 
       edges: []

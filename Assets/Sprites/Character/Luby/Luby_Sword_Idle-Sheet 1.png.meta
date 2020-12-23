@@ -1,19 +1,28 @@
 fileFormatVersion: 2
-guid: 12c90aa3caac2414dae0206416d29bad
+guid: 6407f17e48aa06b4d906658ef45f237f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9195357573080312666
-    second: Luby_Bow_Pull-Sheet_0
+      213: -6894359741418141257
+    second: Luby_Sword_Idle-Sheet 1_0
   - first:
-      213: 2980865475448496137
-    second: Luby_Bow_Pull-Sheet_1
+      213: -3644564500275038114
+    second: Luby_Sword_Idle-Sheet 1_1
   - first:
-      213: 7199484183846541461
-    second: Luby_Bow_Pull-Sheet_2
+      213: 8737088022664506639
+    second: Luby_Sword_Idle-Sheet 1_2
   - first:
-      213: 7586641798737491029
-    second: Luby_Bow_Pull-Sheet_3
+      213: 3875313332418413419
+    second: Luby_Sword_Idle-Sheet 1_3
+  - first:
+      213: 3583610360195948984
+    second: Luby_Sword_Idle-Sheet 1_4
+  - first:
+      213: 8990346731869505613
+    second: Luby_Sword_Idle-Sheet 1_5
+  - first:
+      213: -4768435445304987515
+    second: Luby_Sword_Idle-Sheet 1_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -151,7 +160,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_0
+      name: Luby_Sword_Idle-Sheet 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -165,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5b662e5ef87c9f70800000000000000
-      internalID: 9195357573080312666
+      spriteID: 7b98403d7505250a0800000000000000
+      internalID: -6894359741418141257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_1
+      name: Luby_Sword_Idle-Sheet 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -186,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 900655b4b592e5920800000000000000
-      internalID: 2980865475448496137
+      spriteID: e587b1095e7eb6dc0800000000000000
+      internalID: -3644564500275038114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_2
+      name: Luby_Sword_Idle-Sheet 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -207,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598573088b4b9e360800000000000000
-      internalID: 7199484183846541461
+      spriteID: f0dec3af34f504970800000000000000
+      internalID: 8737088022664506639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luby_Bow_Pull-Sheet_3
+      name: Luby_Sword_Idle-Sheet 1_3
       rect:
         serializedVersion: 2
         x: 96
@@ -228,8 +237,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 554f0eb258a294960800000000000000
-      internalID: 7586641798737491029
+      spriteID: b63822c81f0e7c530800000000000000
+      internalID: 3875313332418413419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Idle-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1a3e4c2aa8bb130800000000000000
+      internalID: 3583610360195948984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Idle-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480da048b024cc70800000000000000
+      internalID: 8990346731869505613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Idle-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f63c0a3d13ddb0800000000000000
+      internalID: -4768435445304987515
       vertices: []
       indices: 
       edges: []
