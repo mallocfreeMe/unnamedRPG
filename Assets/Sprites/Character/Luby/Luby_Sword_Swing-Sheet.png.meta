@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: dff7959deb6e7413db6e7346a3b290d0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6925519253081974873
+    second: Luby_Sword_Swing-Sheet_0
+  - first:
+      213: 5892237146082007338
+    second: Luby_Sword_Swing-Sheet_1
+  - first:
+      213: 780326818240209847
+    second: Luby_Sword_Swing-Sheet_2
+  - first:
+      213: -1097408510618998953
+    second: Luby_Sword_Swing-Sheet_3
+  - first:
+      213: -1594506047891045188
+    second: Luby_Sword_Swing-Sheet_4
+  - first:
+      213: 1008396301522563876
+    second: Luby_Sword_Swing-Sheet_5
+  - first:
+      213: 5927231385368133294
+    second: Luby_Sword_Swing-Sheet_6
+  - first:
+      213: -3726405662813336308
+    second: Luby_Sword_Swing-Sheet_7
+  - first:
+      213: -5269552479576474572
+    second: Luby_Sword_Swing-Sheet_8
+  - first:
+      213: -5948265473534008102
+    second: Luby_Sword_Swing-Sheet_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +62,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +97,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -79,7 +109,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -127,7 +157,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -137,7 +167,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958641551136c1060800000000000000
+      internalID: 6925519253081974873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295498477e65c150800000000000000
+      internalID: 5892237146082007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b32be95b1744da00800000000000000
+      internalID: 780326818240209847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757601f16c835c0f0800000000000000
+      internalID: -1097408510618998953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40e3f823d2fd9e0800000000000000
+      internalID: -1594506047891045188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 4
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f111f71b8efd00800000000000000
+      internalID: 1008396301522563876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 36
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef96a8a81c14250800000000000000
+      internalID: 5927231385368133294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc1030bc5294cc0800000000000000
+      internalID: -3726405662813336308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb09960f9ced6b0800000000000000
+      internalID: -5269552479576474572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luby_Sword_Swing-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 4
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e84c2114837da0800000000000000
+      internalID: -5948265473534008102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
