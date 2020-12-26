@@ -17,7 +17,7 @@ namespace Player
         {
             _velocity = velocity;
         }
-    
+
         private void FixedUpdate()
         {
             _rigidbody2D.MovePosition(_rigidbody2D.position + _velocity * Time.fixedDeltaTime);

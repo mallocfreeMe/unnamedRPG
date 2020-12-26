@@ -25,6 +25,9 @@ namespace Player
             _controller.Move(moveVelocity);
 
             // look input
+            transform.localRotation = _viewCamera.ScreenToWorldPoint(Input.mousePosition).x > transform.position.x
+                ? Quaternion.Euler(0, 180, 0)
+                : Quaternion.Euler(0, 0, 0);
         }
     }
 }
