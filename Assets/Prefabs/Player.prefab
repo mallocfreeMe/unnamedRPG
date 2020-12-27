@@ -56,9 +56,10 @@ GameObject:
   - component: {fileID: 3743001692503117650}
   - component: {fileID: 3743001692503117648}
   - component: {fileID: 3743001692503117651}
+  - component: {fileID: 1347485483}
   m_Layer: 0
   m_Name: Sword
-  m_TagString: Untagged
+  m_TagString: Sword
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,6 +148,32 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!61 &1347485483
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3743001692503117661}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.06587124, y: -0.042226046}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.6666667, y: 0.6666667}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.42682457, y: 0.42682272}
+  m_EdgeRadius: 0
 --- !u!1 &3743001692592601330
 GameObject:
   m_ObjectHideFlags: 0
@@ -323,8 +350,6 @@ MonoBehaviour:
   powMeleeAttkDmg: 7
   rangedAttkDmg: 1
   powRangedAttkDmg: 4
-  rb: {fileID: 3743001692592601335}
-  sword: {fileID: 3743001692503117661}
 --- !u!114 &3743001692592601331
 MonoBehaviour:
   m_ObjectHideFlags: 0
