@@ -6,7 +6,7 @@ namespace Player
     [RequireComponent(typeof(PlayerAnimation))]
     public class Player : MonoBehaviour
     {
-        //=============Health============================================================================
+        //=============Health===================================================================================
         public int playerHealth = 10;
 
         //=============Player Movement==========================================================================
@@ -29,8 +29,9 @@ namespace Player
         private Camera _viewCamera;
         private PlayerController _controller;
 
-        public Rigidbody2D rb;
-        Vector2 mousePos;
+
+        //============Player Sword Rotation=====================================================================
+
 
 
 
@@ -51,7 +52,6 @@ namespace Player
 
         private void FixedUpdate()
         {
-            PlayerAttckAim();
         }
 
 
@@ -62,21 +62,16 @@ namespace Player
             var moveVelocity = moveInput.normalized * moveSpeed;
             _controller.Move(moveVelocity);
 
-            // player look input
+            //player look input
             transform.localRotation = _viewCamera.ScreenToWorldPoint(Input.mousePosition).x > transform.position.x
                 ? Quaternion.Euler(0, 180, 0)
                 : Quaternion.Euler(0, 0, 0);
-
-            //player aim direction
-            mousePos = _viewCamera.ScreenToWorldPoint(Input.mousePosition);
 
         }
 
         private void PlayerAttckAim()//responsible for the direction the player will be attacking at
         {
-            Vector2 lookDir = mousePos - rb.position;
-            var angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 180;
-            rb.rotation = angle;
+
         }
 
         private void PlayerMeleeAttack()//responsible for player melee attack action
