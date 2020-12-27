@@ -1,22 +1,39 @@
+using System;
 using UnityEngine;
 
 namespace Player
 {
     [RequireComponent(typeof(Animator))]
-    [RequireComponent(typeof(Player))]
     public class PlayerAnimation : MonoBehaviour
     {
+        public GameObject sword;
+
         private Animator _animator;
-        private Player _player;
-    
+        private Animator _swordAnimator;
+
         private void Start()
         {
             _animator = GetComponent<Animator>();
-            _player = GetComponent<Player>();
+            _swordAnimator = sword.GetComponent<Animator>();
         }
 
         private void Update()
         {
+            if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
+            {
+                _animator.SetBool("isMoving", true);
+                _swordAnimator.SetBool("isMoving", true);
+            }
+            else
+            {
+                _animator.SetBool("isMoving", false);
+                _swordAnimator.SetBool("isMoving", false);
+            }
+
+            if (Input.GetMouseButton(0))
+            {
+                _swordAnimator.SetTrigger("isAttacking");
+            }
         }
     }
 }
