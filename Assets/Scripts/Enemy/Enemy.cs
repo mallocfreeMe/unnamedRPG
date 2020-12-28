@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
+using Player;
 using Random = UnityEngine.Random;
 
 namespace Enemy
@@ -14,20 +15,30 @@ namespace Enemy
         public int health = 3;
         public float chaseRange = 5;
         public float attackRange = 1;
+        public Transform originalTransform;
 
         private AIPath _aiPath;
         private AIDestinationSetter _aiDestinationSetter;
         private Animator _animator;
         private bool _signIsShown;
         private bool _isDead;
+        private Transform _playerTransform;
+        private PlayerAnimation _playerAnimationScript;
+
+        private void Awake()
+        {
+            originalTransform.SetParent(null, true);
+        }
 
         private void Start()
         {
             _aiPath = GetComponent<AIPath>();
             _aiDestinationSetter = GetComponent<AIDestinationSetter>();
+            _playerAnimationScript = GameObject.FindWithTag("Player").GetComponent<PlayerAnimation>();
             _animator = GetComponent<Animator>();
             _aiPath.canMove = false;
             _aiPath.maxSpeed = Random.Range(3, maxSpeed);
+            _playerTransform = _aiDestinationSetter.target;
         }
 
         private void Update()
@@ -38,16 +49,29 @@ namespace Enemy
                     ? Quaternion.Euler(0, 180, 0)
                     : Quaternion.Euler(0, 0, 0);
             }
-
-            var distance = Vector2.Distance(transform.position, _aiDestinationSetter.target.transform.position);
-
-            if (distance > chaseRange && !_isDead)
+            
+            var distance = Vector2.Distance(transform.position, _playerTransform.position);
+            
+            // idle 
+            if (distance > chaseRange && Vector2.Distance(transform.position,originalTransform.position) <= 1 && !_isDead)
             {
+                _signIsShown = false;
+                _aiDestinationSetter.target = _playerTransform;
                 _aiPath.canMove = false;
                 _animator.SetBool("isMoving", false);
                 _animator.SetBool("isAttacking", false);
             }
-            else if (distance < chaseRange && distance > attackRange && !_isDead)
+            // go back to original position
+            else if (distance > chaseRange && Vector2.Distance(transform.position,originalTransform.position) > 1 && !_isDead)
+            {
+                _signIsShown = false;
+                _aiDestinationSetter.target = originalTransform;
+                _aiPath.canMove = true;
+                _animator.SetBool("isMoving", true);
+                _animator.SetBool("isAttacking", false);
+            }
+            // chase player 
+            else if (distance <= chaseRange && distance > attackRange && !_isDead && _aiDestinationSetter.target.position == _playerTransform.position)
             {
                 _aiPath.canMove = true;
                 _animator.SetBool("isMoving", true);
@@ -57,13 +81,15 @@ namespace Enemy
                     StartCoroutine(PlaySign());
                 }
             }
-            else if (distance <= attackRange && !_isDead)
+            // attack player 
+            else if (distance <= attackRange && !_isDead && _aiDestinationSetter.target.position == _playerTransform.position)
             {
                 _aiPath.canMove = false;
                 _animator.SetBool("isMoving", false);
                 _animator.SetBool("isAttacking", true);
             }
 
+            // death
             if (health <= 0 && !_isDead)
             {
                 _aiPath.canMove = false;

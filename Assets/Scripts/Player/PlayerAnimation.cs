@@ -8,13 +8,12 @@ namespace Player
     {
         public GameObject sword;
         public GameObject swordTrail;
-
+        
+        public bool isAttacking;
 
         private Animator _animator;
         private Animator _swordAnimator;
-
-
-
+        
         private void Start()
         {
             _animator = GetComponent<Animator>();
@@ -35,20 +34,6 @@ namespace Player
                 _swordAnimator.SetBool("isMoving", false);
 
             }
-
-            /*
-            if (Input.GetMouseButton(0))
-            {
-                swordTrail.SetActive(true); //enable sword trails
-
-            }
-            else
-            {
-                swordTrail.SetActive(false);
-            }
-            */
-
-
         }
     }
 }
