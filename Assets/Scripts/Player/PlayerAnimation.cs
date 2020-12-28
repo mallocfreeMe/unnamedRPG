@@ -7,9 +7,13 @@ namespace Player
     public class PlayerAnimation : MonoBehaviour
     {
         public GameObject sword;
+        public GameObject swordTrail;
+
 
         private Animator _animator;
         private Animator _swordAnimator;
+
+
 
         private void Start()
         {
@@ -23,17 +27,28 @@ namespace Player
             {
                 _animator.SetBool("isMoving", true);
                 _swordAnimator.SetBool("isMoving", true);
+
             }
             else
             {
                 _animator.SetBool("isMoving", false);
                 _swordAnimator.SetBool("isMoving", false);
+
             }
 
+            /*
             if (Input.GetMouseButton(0))
             {
-                _swordAnimator.SetTrigger("isAttacking");
+                swordTrail.SetActive(true); //enable sword trails
+
             }
+            else
+            {
+                swordTrail.SetActive(false);
+            }
+            */
+
+
         }
     }
 }

@@ -1900,7 +1900,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4916971623488098442, guid: 824870448018d41169b986ffbf45546b, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4916971623488098442, guid: 824870448018d41169b986ffbf45546b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1927,6 +1927,11 @@ PrefabInstance:
 --- !u!4 &737088603 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3743001693248597393, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
+  m_PrefabInstance: {fileID: 3743001692517153226}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &758826050 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1748063325806654851, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
   m_PrefabInstance: {fileID: 3743001692517153226}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &791757316
@@ -10885,6 +10890,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3743001692592601331, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
+      propertyPath: swordTrail
+      value: 
+      objectReference: {fileID: 758826050}
     - target: {fileID: 3743001693248597393, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.07
@@ -10915,7 +10924,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3743001693248597393, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 3743001693248597393, guid: 8fdaf44327e7f4fefb2347ca5b416f01, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10976,7 +10985,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4916971623488098442, guid: 824870448018d41169b986ffbf45546b, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4916971623488098442, guid: 824870448018d41169b986ffbf45546b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
