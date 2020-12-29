@@ -242,7 +242,14 @@ AnimationClip:
     path: 
     classID: 114
     script: {fileID: 11500000, guid: 337f7c797ff0f5f4fa698e9b1e6a87be, type: 3}
-  m_PPtrCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0.05
+      value: {fileID: 8300000, guid: 9dc10b239dd69e9409c23e80a00f9d88, type: 3}
+    attribute: swordSFX_2
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 3c3c6f623355ae84aaed1d2d9a67423f, type: 3}
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -292,7 +299,15 @@ AnimationClip:
       typeID: 114
       customType: 24
       isPPtrCurve: 0
-    pptrCurveMapping: []
+    - serializedVersion: 2
+      path: 0
+      attribute: 3724024641
+      script: {fileID: 11500000, guid: 3c3c6f623355ae84aaed1d2d9a67423f, type: 3}
+      typeID: 114
+      customType: 0
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 8300000, guid: 9dc10b239dd69e9409c23e80a00f9d88, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
