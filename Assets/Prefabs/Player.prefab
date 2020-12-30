@@ -317,11 +317,10 @@ GameObject:
   - component: {fileID: 3063368765674472012}
   - component: {fileID: 3063368765674472015}
   - component: {fileID: 3063368765674472014}
-  - component: {fileID: 3063368765674472009}
   - component: {fileID: 3063368765674472008}
   - component: {fileID: 3063368765674472011}
   m_Layer: 0
-  m_Name: Player 1
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -449,18 +448,6 @@ CapsuleCollider2D:
   m_Offset: {x: -0.115077734, y: -0.014883041}
   m_Size: {x: 0.61995816, y: 0.9871111}
   m_Direction: 0
---- !u!114 &3063368765674472009
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3063368765674472010}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 550eb7d4d7b104b059d1227b9d6304e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &3063368765674472008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -473,13 +460,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d5ff0e4dc3a04d6c90d4de22031bcdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: 10
   moveSpeed: 5
-  powAttkCounter: 10
-  meleeAttkDmg: 3
-  powMeleeAttkDmg: 7
-  rangedAttkDmg: 1
-  powRangedAttkDmg: 4
+  sword: {fileID: 0}
+  bow: {fileID: 0}
+  slot1: {fileID: 0}
+  weaponName: {fileID: 0}
+  slot2: {fileID: 0}
+  inactiveSprite: {fileID: 0}
+  activeSprite: {fileID: 0}
 --- !u!114 &3063368765674472011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -493,8 +481,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sword: {fileID: 3063368765806917093}
-  swordTrail: {fileID: 85792459035037499}
-  isAttacking: 0
 --- !u!1 &3063368765806917093
 GameObject:
   m_ObjectHideFlags: 0

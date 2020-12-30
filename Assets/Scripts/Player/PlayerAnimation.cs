@@ -7,13 +7,10 @@ namespace Player
     public class PlayerAnimation : MonoBehaviour
     {
         public GameObject sword;
-        public GameObject swordTrail;
-        
-        public bool isAttacking;
 
         private Animator _animator;
         private Animator _swordAnimator;
-        
+
         private void Start()
         {
             _animator = GetComponent<Animator>();
@@ -25,14 +22,18 @@ namespace Player
             if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
             {
                 _animator.SetBool("isMoving", true);
-                _swordAnimator.SetBool("isMoving", true);
-
+                if (sword.activeSelf)
+                {
+                    _swordAnimator.SetBool("isMoving", true);
+                }
             }
             else
             {
                 _animator.SetBool("isMoving", false);
-                _swordAnimator.SetBool("isMoving", false);
-
+                if (sword.activeSelf)
+                {
+                    _swordAnimator.SetBool("isMoving", false);
+                }
             }
         }
     }

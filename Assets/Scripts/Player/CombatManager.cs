@@ -1,52 +1,53 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class CombatManager : MonoBehaviour
+namespace Player
 {
-
-    public bool canReceiveInput;
-    public bool inputReceived;
-
-    public Animator animate;
-
-    // Start is called before the first frame update
-    void Start()
+    public class CombatManager : MonoBehaviour
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        Attack();
-    }
+        public bool canReceiveInput;
+        public bool inputReceived;
 
-    public void Attack()
-    {
-        if (Input.GetMouseButton(0))
+        public Animator animate;
+
+        // Start is called before the first frame update
+        void Start()
         {
-            //play an attack animation
-            animate.SetTrigger("isAtt");
-
-
-            //detect enemies in range of attack
-            //damage them
-            
+        
         }
 
+        // Update is called once per frame
+        void Update()
+        {
+            Attack();
+        }
+
+        public void Attack()
+        {
+            if (Input.GetMouseButton(0))
+            {
+                //play an attack animation
+                animate.SetTrigger("isAtt");
+
+
+                //detect enemies in range of attack
+                //damage them
+            
+            }
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
