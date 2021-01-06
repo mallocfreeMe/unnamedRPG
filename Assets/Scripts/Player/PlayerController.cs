@@ -34,12 +34,14 @@ namespace Player
         private void FixedUpdate()
         {
             Move();
+            
         }
 
         private void Update()
         {
             LookAtMouse();
             WeaponSwitch();
+         
         }
 
         // movement input

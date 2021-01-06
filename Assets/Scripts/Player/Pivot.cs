@@ -12,25 +12,47 @@ namespace Player
             _viewCamera = Camera.main;
         }
 
+
         private void FixedUpdate()
         {
-            Vector2 difference = _viewCamera.ScreenToWorldPoint(Input.mousePosition - transform.position);
+            Vector3 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
             difference.Normalize();
 
-            var rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg - 180f;
+            float rotZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg ;
 
-            //transform.rotation = Quaternion.Euler(0f, 0f, rotationZ*5);
+            transform.rotation = Quaternion.Euler(0f, 0f, rotZ);
 
-            if (myPlayer.transform.eulerAngles.y == 0)
-            {
-                transform.localRotation = Quaternion.Euler(0, 0, rotationZ * 5);
-                // print("facing left");
-            }
-            else if (myPlayer.transform.eulerAngles.y == 180)
-            {
-                transform.localRotation = Quaternion.Euler(180, 180, rotationZ * 5 + 180);
-                //print("facing right");
-            }
+            //print("rotation: " + rotZ);
+
+            //print(myPlayer.transform.eulerAngles.y);
+
+
+            //if (rotZ < -90 || rotZ > 90) //if arm is on other side, 
+            //{
+                
+
+                if (myPlayer.transform.eulerAngles.y ==0) //player character looking to the left
+                {
+                    transform.localRotation = Quaternion.Euler(180, 180, rotZ ); //flip the arm on X-axis
+                    //print("LEFT?");
+
+                }
+                else if(myPlayer.transform.eulerAngles.y != 0) //player character looking to the right
+                {
+                    transform.localRotation = Quaternion.Euler(0, 0, -rotZ );//flip the arm on X-axis & Y-axis
+                    //print("RIGHT?");
+                }
+        
+
+
+            //}
+
+
+
         }
+
+
+
+
     }
 }

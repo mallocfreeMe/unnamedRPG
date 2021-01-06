@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: b6f5e40878838ce48ac1b6ae8f295ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1146755629453001692
+    second: GrassFieldssRoad_0
+  - first:
+      213: -8844253455055680232
+    second: GrassFieldssRoad_1
+  - first:
+      213: -4036523003228780602
+    second: GrassFieldssRoad_2
+  - first:
+      213: -7597276678781237441
+    second: GrassFieldssRoad_3
+  - first:
+      213: 5252005719458375257
+    second: GrassFieldssRoad_4
+  - first:
+      213: -1268374405106055677
+    second: GrassFieldssRoad_5
+  - first:
+      213: 3910543865972180866
+    second: GrassFieldssRoad_6
+  - first:
+      213: 750583245223874183
+    second: GrassFieldssRoad_7
+  - first:
+      213: 1713046068594258806
+    second: GrassFieldssRoad_8
+  - first:
+      213: 520955275427493141
+    second: GrassFieldssRoad_9
+  - first:
+      213: 2957726123882944237
+    second: GrassFieldssRoad_10
+  - first:
+      213: -5238044773142164371
+    second: GrassFieldssRoad_11
+  - first:
+      213: -1099475617714929297
+    second: GrassFieldssRoad_12
+  - first:
+      213: 2237888699292704605
+    second: GrassFieldssRoad_13
+  - first:
+      213: -7672797530567749806
+    second: GrassFieldssRoad_14
+  - first:
+      213: 5397283371487043770
+    second: GrassFieldssRoad_15
+  - first:
+      213: 8292883936829046785
+    second: GrassFieldssRoad_16
+  - first:
+      213: -3774164206379579416
+    second: GrassFieldssRoad_17
+  - first:
+      213: -6183601233259123831
+    second: GrassFieldssRoad_18
+  - first:
+      213: -5600506240544319704
+    second: GrassFieldssRoad_19
+  - first:
+      213: -7767399935874020144
+    second: GrassFieldssRoad_20
+  - first:
+      213: 3488866141998257596
+    second: GrassFieldssRoad_21
+  - first:
+      213: 8234441243747009016
+    second: GrassFieldssRoad_22
+  - first:
+      213: -4566576897431100840
+    second: GrassFieldssRoad_23
+  - first:
+      213: -2023391343657907211
+    second: GrassFieldssRoad_24
+  - first:
+      213: 6118124103903102814
+    second: GrassFieldssRoad_25
+  - first:
+      213: 1167956742065793603
+    second: GrassFieldssRoad_26
+  - first:
+      213: -6323723023422278551
+    second: GrassFieldssRoad_27
+  - first:
+      213: 2903094730396478365
+    second: GrassFieldssRoad_28
+  - first:
+      213: 8605196512525192197
+    second: GrassFieldssRoad_29
+  - first:
+      213: -813716729495763796
+    second: GrassFieldssRoad_30
+  - first:
+      213: -3223260143339122946
+    second: GrassFieldssRoad_31
+  - first:
+      213: 5333888717033017865
+    second: GrassFieldssRoad_32
+  - first:
+      213: 8783283919162157497
+    second: GrassFieldssRoad_33
+  - first:
+      213: -4749664658259815109
+    second: GrassFieldssRoad_34
+  - first:
+      213: -6101664664914234807
+    second: GrassFieldssRoad_35
+  - first:
+      213: 1612774694440783163
+    second: GrassFieldssRoad_36
+  - first:
+      213: 7127691566360263878
+    second: GrassFieldssRoad_37
+  - first:
+      213: 2412467873336260918
+    second: GrassFieldssRoad_38
+  - first:
+      213: -284564461209721592
+    second: GrassFieldssRoad_39
+  - first:
+      213: -7051551476955523926
+    second: GrassFieldssRoad_40
+  - first:
+      213: 7157192374942951654
+    second: GrassFieldssRoad_41
+  - first:
+      213: -2451715362013500657
+    second: GrassFieldssRoad_42
+  - first:
+      213: -135972451415165790
+    second: GrassFieldssRoad_43
+  - first:
+      213: -237396812534968640
+    second: GrassFieldssRoad_44
+  - first:
+      213: -1011072398817900910
+    second: GrassFieldssRoad_45
+  - first:
+      213: 2270633021158832086
+    second: GrassFieldssRoad_46
+  - first:
+      213: 2125486378592851698
+    second: GrassFieldssRoad_47
+  - first:
+      213: 5800690923658867084
+    second: GrassFieldssRoad_48
+  - first:
+      213: -392567415909101948
+    second: GrassFieldssRoad_49
+  - first:
+      213: -322903478674441415
+    second: GrassFieldssRoad_50
+  - first:
+      213: 8367805396349809436
+    second: GrassFieldssRoad_51
+  - first:
+      213: -3031739059457470282
+    second: GrassFieldssRoad_52
+  - first:
+      213: 2595708824561818665
+    second: GrassFieldssRoad_53
+  - first:
+      213: 5604180216234748617
+    second: GrassFieldssRoad_54
+  - first:
+      213: 4212987647440270920
+    second: GrassFieldssRoad_55
+  - first:
+      213: -6343278230515901371
+    second: GrassFieldssRoad_56
+  - first:
+      213: -3532969906080844176
+    second: GrassFieldssRoad_57
+  - first:
+      213: -4919109439010308240
+    second: GrassFieldssRoad_58
+  - first:
+      213: -6779878377990746958
+    second: GrassFieldssRoad_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassFieldssRoad_0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c364ea4d7e510f0800000000000000
+      internalID: -1146755629453001692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d82eb6756e24580800000000000000
+      internalID: -8844253455055680232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70bd807b36bf7c0800000000000000
+      internalID: -4036523003228780602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3782ecdc1d019690800000000000000
+      internalID: -7597276678781237441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e2a2206fd2e840800000000000000
+      internalID: 5252005719458375257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c47dd234d56ee0800000000000000
+      internalID: -1268374405106055677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287cad95dea054630800000000000000
+      internalID: 3910543865972180866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ecde91c7b9a6a00800000000000000
+      internalID: 750583245223874183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b072c256f5c710800000000000000
+      internalID: 1713046068594258806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b8b7101eca3700800000000000000
+      internalID: 520955275427493141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de69fec2d34fb0920800000000000000
+      internalID: 2957726123882944237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c054bf70abe47b0800000000000000
+      internalID: -5238044773142164371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6106ee30c0edb0f0800000000000000
+      internalID: -1099475617714929297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd3384ae39e0f10800000000000000
+      internalID: 2237888699292704605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc3055c4fb48590800000000000000
+      internalID: -7672797530567749806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ab9d51a007ea40800000000000000
+      internalID: 5397283371487043770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000d32c00e361370800000000000000
+      internalID: 8292883936829046785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e740c296a97f9bc0800000000000000
+      internalID: -3774164206379579416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b2ce2c07f6f2aa0800000000000000
+      internalID: -6183601233259123831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275ff93f310742b0800000000000000
+      internalID: -5600506240544319704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc46d969e6a43490800000000000000
+      internalID: -7767399935874020144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb591b67541fa6030800000000000000
+      internalID: 3488866141998257596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1cd59eeac964270800000000000000
+      internalID: 8234441243747009016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522d1da18240a0c0800000000000000
+      internalID: -4566576897431100840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8ba71b487be3e0800000000000000
+      internalID: -2023391343657907211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5746e01571f7e450800000000000000
+      internalID: 6118124103903102814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aaad3087a653010800000000000000
+      internalID: 1167956742065793603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b4fa2a6f9d38a0800000000000000
+      internalID: -6323723023422278551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b279aa64dd94820800000000000000
+      internalID: 2903094730396478365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8e77c2accb6770800000000000000
+      internalID: 8605196512525192197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4cc9e12f815b4f0800000000000000
+      internalID: -813716729495763796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec8992afda443d0800000000000000
+      internalID: -3223260143339122946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902973a2787c50a40800000000000000
+      internalID: 5333888717033017865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9af0b403e74e970800000000000000
+      internalID: 8783283919162157497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35523a782dc51eb0800000000000000
+      internalID: -4749664658259815109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fb35b058825ba0800000000000000
+      internalID: -6101664664914234807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc1ec2a0ab16610800000000000000
+      internalID: 1612774694440783163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc737927b5aae260800000000000000
+      internalID: 7127691566360263878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ff3ebfbeca7120800000000000000
+      internalID: 2412467873336260918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e4e551260d0cf0800000000000000
+      internalID: -284564461209721592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45facda4bd32e90800000000000000
+      internalID: -7051551476955523926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8eb996b84735360800000000000000
+      internalID: 7157192374942951654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b21d43ed1c9fdd0800000000000000
+      internalID: -2451715362013500657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f82e96cdec1ef0800000000000000
+      internalID: -135972451415165790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0b065bd894bcf0800000000000000
+      internalID: -237396812534968640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c14a9203f7f1f0800000000000000
+      internalID: -1011072398817900910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b171d3b8e28f10800000000000000
+      internalID: 2270633021158832086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f655fa999e3f7d10800000000000000
+      internalID: 2125486378592851698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f48469a1308050800000000000000
+      internalID: 5800690923658867084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4850e3025d8af0800000000000000
+      internalID: -392567415909101948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3fd83ff0d48bf0800000000000000
+      internalID: -322903478674441415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f6076caa602470800000000000000
+      internalID: 8367805396349809436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05c5563691de5d0800000000000000
+      internalID: -3031739059457470282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9a5c5c6fc50420800000000000000
+      internalID: 2595708824561818665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa1f5e63c06cd40800000000000000
+      internalID: 5604180216234748617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84639c8a1f9877a30800000000000000
+      internalID: 4212987647440270920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c91a6be0628f7a0800000000000000
+      internalID: -6343278230515901371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f7e1c69e58fec0800000000000000
+      internalID: -3532969906080844176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff48c1700dbbbb0800000000000000
+      internalID: -4919109439010308240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssRoad_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc828b598809e1a0800000000000000
+      internalID: -6779878377990746958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

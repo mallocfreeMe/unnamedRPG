@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: fd2bf98e5e2308a4291a7e7632258a59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6084546756137797162
+    second: GrassFieldssWater_0
+  - first:
+      213: 3291675957707194023
+    second: GrassFieldssWater_1
+  - first:
+      213: -6862185550616902480
+    second: GrassFieldssWater_2
+  - first:
+      213: 7109443517193444733
+    second: GrassFieldssWater_3
+  - first:
+      213: -8700275100699316536
+    second: GrassFieldssWater_4
+  - first:
+      213: -6543028377597940908
+    second: GrassFieldssWater_5
+  - first:
+      213: 4167383108738208198
+    second: GrassFieldssWater_6
+  - first:
+      213: 671681039101906401
+    second: GrassFieldssWater_7
+  - first:
+      213: 3956825061280431437
+    second: GrassFieldssWater_8
+  - first:
+      213: 6076408406886827594
+    second: GrassFieldssWater_9
+  - first:
+      213: -8919749536899585181
+    second: GrassFieldssWater_10
+  - first:
+      213: -2959838145565297852
+    second: GrassFieldssWater_11
+  - first:
+      213: -2058254435386639256
+    second: GrassFieldssWater_12
+  - first:
+      213: -108066643985786092
+    second: GrassFieldssWater_13
+  - first:
+      213: 4050378663675495191
+    second: GrassFieldssWater_14
+  - first:
+      213: -6731307775248167038
+    second: GrassFieldssWater_15
+  - first:
+      213: 6999422752860287312
+    second: GrassFieldssWater_16
+  - first:
+      213: -4751807359531947557
+    second: GrassFieldssWater_17
+  - first:
+      213: -2607711817637576454
+    second: GrassFieldssWater_18
+  - first:
+      213: -6418178087714167119
+    second: GrassFieldssWater_19
+  - first:
+      213: -3063700955759081892
+    second: GrassFieldssWater_20
+  - first:
+      213: 3702336047351477643
+    second: GrassFieldssWater_21
+  - first:
+      213: -6653151984498391595
+    second: GrassFieldssWater_22
+  - first:
+      213: -7914744566688733226
+    second: GrassFieldssWater_23
+  - first:
+      213: -268280408599359178
+    second: GrassFieldssWater_24
+  - first:
+      213: 870663440174195631
+    second: GrassFieldssWater_25
+  - first:
+      213: -1542318003141856189
+    second: GrassFieldssWater_26
+  - first:
+      213: 8647476766467878297
+    second: GrassFieldssWater_27
+  - first:
+      213: 8168235687604331115
+    second: GrassFieldssWater_28
+  - first:
+      213: 6019760424463577604
+    second: GrassFieldssWater_29
+  - first:
+      213: -4761573474279155826
+    second: GrassFieldssWater_30
+  - first:
+      213: -8839030464162689857
+    second: GrassFieldssWater_31
+  - first:
+      213: 3007711061357086279
+    second: GrassFieldssWater_32
+  - first:
+      213: -5036475108154454239
+    second: GrassFieldssWater_33
+  - first:
+      213: 2507925532599473596
+    second: GrassFieldssWater_34
+  - first:
+      213: -2560716401404948828
+    second: GrassFieldssWater_35
+  - first:
+      213: 1444579133797982080
+    second: GrassFieldssWater_36
+  - first:
+      213: -5802868051543700167
+    second: GrassFieldssWater_37
+  - first:
+      213: -852083313270521761
+    second: GrassFieldssWater_38
+  - first:
+      213: -5789804389789264864
+    second: GrassFieldssWater_39
+  - first:
+      213: -1789091393205331233
+    second: GrassFieldssWater_40
+  - first:
+      213: 1531442929014067960
+    second: GrassFieldssWater_41
+  - first:
+      213: -4119211042083806430
+    second: GrassFieldssWater_42
+  - first:
+      213: 450916382724907432
+    second: GrassFieldssWater_43
+  - first:
+      213: 1007263141890087251
+    second: GrassFieldssWater_44
+  - first:
+      213: -2797776516029301967
+    second: GrassFieldssWater_45
+  - first:
+      213: -8816680252865630450
+    second: GrassFieldssWater_46
+  - first:
+      213: -1450279944766049016
+    second: GrassFieldssWater_47
+  - first:
+      213: 8132348329369052188
+    second: GrassFieldssWater_48
+  - first:
+      213: -1375467625928080818
+    second: GrassFieldssWater_49
+  - first:
+      213: -5751518880687622898
+    second: GrassFieldssWater_50
+  - first:
+      213: -862258965769562172
+    second: GrassFieldssWater_51
+  - first:
+      213: -583666149956637775
+    second: GrassFieldssWater_52
+  - first:
+      213: -2233420830162274879
+    second: GrassFieldssWater_53
+  - first:
+      213: 7792985899723056777
+    second: GrassFieldssWater_54
+  - first:
+      213: 6073735801526716451
+    second: GrassFieldssWater_55
+  - first:
+      213: -2688902377133239259
+    second: GrassFieldssWater_56
+  - first:
+      213: 3075707217965985456
+    second: GrassFieldssWater_57
+  - first:
+      213: -6272724752429501995
+    second: GrassFieldssWater_58
+  - first:
+      213: -8421304840266674752
+    second: GrassFieldssWater_59
+  - first:
+      213: -3925670381495729414
+    second: GrassFieldssWater_60
+  - first:
+      213: 8627140468211215829
+    second: GrassFieldssWater_61
+  - first:
+      213: -6526786040204168451
+    second: GrassFieldssWater_62
+  - first:
+      213: 1197817398723627577
+    second: GrassFieldssWater_63
+  - first:
+      213: 4179998776138596325
+    second: GrassFieldssWater_64
+  - first:
+      213: 1454139006539231658
+    second: GrassFieldssWater_65
+  - first:
+      213: -7258738049440353374
+    second: GrassFieldssWater_66
+  - first:
+      213: -4251011274651874660
+    second: GrassFieldssWater_67
+  - first:
+      213: 4609779661150768782
+    second: GrassFieldssWater_68
+  - first:
+      213: 801964478087125292
+    second: GrassFieldssWater_69
+  - first:
+      213: -5921205774259092420
+    second: GrassFieldssWater_70
+  - first:
+      213: 4329287632465075114
+    second: GrassFieldssWater_71
+  - first:
+      213: 902692380525594676
+    second: GrassFieldssWater_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassFieldssWater_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2649d29907a07450800000000000000
+      internalID: 6084546756137797162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb4dee7d16ead20800000000000000
+      internalID: 3291675957707194023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b449a0699e94c0a0800000000000000
+      internalID: -6862185550616902480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd4012631d9a260800000000000000
+      internalID: 7109443517193444733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce24a654e9624780800000000000000
+      internalID: -8700275100699316536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b69f56b5e7235a0800000000000000
+      internalID: -6543028377597940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1dd4f8bd485d930800000000000000
+      internalID: 4167383108738208198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc80aa85a425900800000000000000
+      internalID: 671681039101906401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dbbf7dd6779e630800000000000000
+      internalID: 3956825061280431437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46cfaa704db35450800000000000000
+      internalID: 6076408406886827594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b25a71e0fa63480800000000000000
+      internalID: -8919749536899585181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443fde473ea8ce6d0800000000000000
+      internalID: -2959838145565297852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c38610f7c9f63e0800000000000000
+      internalID: -2058254435386639256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b9829b5f1108ef0800000000000000
+      internalID: -108066643985786092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713033e4fe5d53830800000000000000
+      internalID: 4050378663675495191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f028e0e379592a0800000000000000
+      internalID: -6731307775248167038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513601c8e1f22160800000000000000
+      internalID: 6999422752860287312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e206f1603e0eb0800000000000000
+      internalID: -4751807359531947557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0cf190beb8fcbd0800000000000000
+      internalID: -2607711817637576454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e990c80d0ee6a0800000000000000
+      internalID: -6418178087714167119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5684f1863c8b75d0800000000000000
+      internalID: -3063700955759081892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85328de407516330800000000000000
+      internalID: 3702336047351477643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c94f15814ba3a0800000000000000
+      internalID: -6653151984498391595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a09e20cd292290800000000000000
+      internalID: -7914744566688733226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311d39c360e64cf0800000000000000
+      internalID: -268280408599359178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a08e29c7351c00800000000000000
+      internalID: 870663440174195631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3443a0c92f5989ae0800000000000000
+      internalID: -1542318003141856189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de2c48d42020870800000000000000
+      internalID: 8647476766467878297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b622359a4176b5170800000000000000
+      internalID: 8168235687604331115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023b15463c7a8350800000000000000
+      internalID: 6019760424463577604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871bad272e7bedb0800000000000000
+      internalID: -4761573474279155826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc0ab0cf94755580800000000000000
+      internalID: -8839030464162689857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c33756498db920800000000000000
+      internalID: 3007711061357086279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f4b52d298da1ab0800000000000000
+      internalID: -5036475108154454239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb559bdfbf0fdc220800000000000000
+      internalID: 2507925532599473596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aecdbb0002867cd0800000000000000
+      internalID: -2560716401404948828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f58f7811d2c0410800000000000000
+      internalID: 1444579133797982080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d46458042187fa0800000000000000
+      internalID: -5802868051543700167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500979bdbacc24f0800000000000000
+      internalID: -852083313270521761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241d9b459b76afa0800000000000000
+      internalID: -5789804389789264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda994d5bdedb27e0800000000000000
+      internalID: -1789091393205331233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2daa1ea37c04510800000000000000
+      internalID: 1531442929014067960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236ab9b16f95d6c0800000000000000
+      internalID: -4119211042083806430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e8bf9f0af14600800000000000000
+      internalID: 450916382724907432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d3b7ad748afd00800000000000000
+      internalID: 1007263141890087251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb429f41d4c29d0800000000000000
+      internalID: -2797776516029301967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2eb5d50cd4a580800000000000000
+      internalID: -8816680252865630450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b85bf2129fdbe0800000000000000
+      internalID: -1450279944766049016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a8c1f7b7ebd070800000000000000
+      internalID: 8132348329369052188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c1845b7b59ece0800000000000000
+      internalID: -1375467625928080818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0579a50d008e20b0800000000000000
+      internalID: -5751518880687622898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d8e00a04a804f0800000000000000
+      internalID: -862258965769562172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2a60aab666e7f0800000000000000
+      internalID: -583666149956637775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53830969b4101e0800000000000000
+      internalID: -2233420830162274879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986ee94036f362c60800000000000000
+      internalID: 7792985899723056777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328829d088e3a4450800000000000000
+      internalID: 6073735801526716451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524154fc8891faad0800000000000000
+      internalID: -2688902377133239259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea7ff3b6b1faa20800000000000000
+      internalID: 3075707217965985456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b3ad621ec2f8a0800000000000000
+      internalID: -6272724752429501995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd80a2add3812b80800000000000000
+      internalID: -8421304840266674752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ccad46973589c0800000000000000
+      internalID: -3925670381495729414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd602b1c82c9b770800000000000000
+      internalID: 8627140468211215829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f6a44da23c65a0800000000000000
+      internalID: -6526786040204168451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a44bce3908f9010800000000000000
+      internalID: 1197817398723627577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5effe458db6520a30800000000000000
+      internalID: 4179998776138596325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17fcad8b32e2410800000000000000
+      internalID: 1454139006539231658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fe75d338c34b90800000000000000
+      internalID: -7258738049440353374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac13eb4cf5105c0800000000000000
+      internalID: -4251011274651874660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e46bb9d2a39ff30800000000000000
+      internalID: 4609779661150768782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295dde9176212b00800000000000000
+      internalID: 801964478087125292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348b4f58b6a3dda0800000000000000
+      internalID: -5921205774259092420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab92970a28b41c30800000000000000
+      internalID: 4329287632465075114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassFieldssWater_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380eaaffe1078c00800000000000000
+      internalID: 902692380525594676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
