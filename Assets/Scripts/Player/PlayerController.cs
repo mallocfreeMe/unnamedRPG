@@ -8,20 +8,17 @@ namespace Player
     [RequireComponent(typeof(PlayerAnimation))]
     public class PlayerController : MonoBehaviour
     {
-        [Header("Attribute")]
-        public float moveSpeed = 5;
-        
-        [Header("Weapon")]
-        public GameObject sword;
+        [Header("Attribute")] public float moveSpeed = 5;
+
+        [Header("Weapon")] public GameObject sword;
         public GameObject bow;
 
-        [Header("Inventory UI")]
-        public Image slot1;
+        [Header("Inventory UI")] public Image slot1;
         public TextMeshProUGUI weaponName;
         public Image slot2;
         public Sprite inactiveSprite;
         public Sprite activeSprite;
-        
+
         private Camera _viewCamera;
         private Rigidbody2D _rigidbody2D;
 
@@ -34,14 +31,12 @@ namespace Player
         private void FixedUpdate()
         {
             Move();
-            
         }
 
         private void Update()
         {
             LookAtMouse();
             WeaponSwitch();
-         
         }
 
         // movement input
@@ -51,7 +46,7 @@ namespace Player
             var moveVelocity = moveInput.normalized * moveSpeed;
             _rigidbody2D.MovePosition(_rigidbody2D.position + moveVelocity * Time.fixedDeltaTime);
         }
-        
+
         // player look input
         private void LookAtMouse()
         {
@@ -63,7 +58,7 @@ namespace Player
         // weapon switch, use mouse scroll to control different weapons
         private void WeaponSwitch()
         {
-            if (Input.GetAxis("Mouse ScrollWheel") > 0f )
+            if (Input.GetAxis("Mouse ScrollWheel") > 0f)
             {
                 sword.SetActive(true);
                 bow.SetActive(false);
@@ -71,7 +66,7 @@ namespace Player
                 slot2.sprite = inactiveSprite;
                 weaponName.text = "Wooden Blade";
             }
-            else if (Input.GetAxis("Mouse ScrollWheel") < 0f )
+            else if (Input.GetAxis("Mouse ScrollWheel") < 0f)
             {
                 sword.SetActive(false);
                 bow.SetActive(true);

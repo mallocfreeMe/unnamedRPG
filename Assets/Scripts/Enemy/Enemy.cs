@@ -16,6 +16,8 @@ namespace Enemy
         public float chaseRange = 5;
         public float attackRange = 1;
         public Transform originalTransform;
+        public GameObject particleEffect;
+        public GameObject bloodSplash;
 
         private AIPath _aiPath;
         private AIDestinationSetter _aiDestinationSetter;
@@ -24,6 +26,7 @@ namespace Enemy
         private bool _isDead;
         private Transform _playerTransform;
         private PlayerAnimation _playerAnimationScript;
+        private AudioSource _audioSource;
 
         private void Awake()
         {
@@ -36,6 +39,7 @@ namespace Enemy
             _aiDestinationSetter = GetComponent<AIDestinationSetter>();
             _playerAnimationScript = GameObject.FindWithTag("Player").GetComponent<PlayerAnimation>();
             _animator = GetComponent<Animator>();
+            _audioSource = GetComponent<AudioSource>();
             _aiPath.canMove = false;
             _aiPath.maxSpeed = Random.Range(3, maxSpeed);
             _playerTransform = _aiDestinationSetter.target;
@@ -49,11 +53,12 @@ namespace Enemy
                     ? Quaternion.Euler(0, 180, 0)
                     : Quaternion.Euler(0, 0, 0);
             }
-            
+
             var distance = Vector2.Distance(transform.position, _playerTransform.position);
-            
+
             // idle 
-            if (distance > chaseRange && Vector2.Distance(transform.position,originalTransform.position) <= 1 && !_isDead)
+            if (distance > chaseRange && Vector2.Distance(transform.position, originalTransform.position) <= 1 &&
+                !_isDead)
             {
                 _signIsShown = false;
                 _aiDestinationSetter.target = _playerTransform;
@@ -62,7 +67,8 @@ namespace Enemy
                 _animator.SetBool("isAttacking", false);
             }
             // go back to original position
-            else if (distance > chaseRange && Vector2.Distance(transform.position,originalTransform.position) > 1 && !_isDead)
+            else if (distance > chaseRange && Vector2.Distance(transform.position, originalTransform.position) > 1 &&
+                     !_isDead)
             {
                 _signIsShown = false;
                 _aiDestinationSetter.target = originalTransform;
@@ -71,7 +77,8 @@ namespace Enemy
                 _animator.SetBool("isAttacking", false);
             }
             // chase player 
-            else if (distance <= chaseRange && distance > attackRange && !_isDead && _aiDestinationSetter.target.position == _playerTransform.position)
+            else if (distance <= chaseRange && distance > attackRange && !_isDead &&
+                     _aiDestinationSetter.target.position == _playerTransform.position)
             {
                 _aiPath.canMove = true;
                 _animator.SetBool("isMoving", true);
@@ -82,7 +89,8 @@ namespace Enemy
                 }
             }
             // attack player 
-            else if (distance <= attackRange && !_isDead && _aiDestinationSetter.target.position == _playerTransform.position)
+            else if (distance <= attackRange && !_isDead &&
+                     _aiDestinationSetter.target.position == _playerTransform.position)
             {
                 _aiPath.canMove = false;
                 _animator.SetBool("isMoving", false);
@@ -99,6 +107,7 @@ namespace Enemy
             }
         }
 
+        // play sign when enemy see the player 
         private IEnumerator PlaySign()
         {
             sign.SetActive(true);
@@ -106,19 +115,42 @@ namespace Enemy
             sign.SetActive(false);
             _signIsShown = true;
         }
-
-
+        
+        // wait 4 seconds then remove the enemy after its death
         private IEnumerator PlayDeathAnimation()
         {
             yield return new WaitForSeconds(4);
             Destroy(gameObject);
+            var pos = new Vector3(transform.position.x - 0.3f, transform.position.y, -2);
+            Instantiate(bloodSplash, pos, Quaternion.identity);
         }
 
-        private void OnTriggerEnter2D(Collider2D other)
+        // when enemy take damage
+        private void DamagedEffect()
         {
-            if (other.gameObject.CompareTag("Sword"))
+            if (!_isDead)
             {
                 health--;
+                _audioSource.Play();
+                Instantiate(particleEffect, transform.position, Quaternion.identity);
+            }
+        }
+        
+        private void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.gameObject.CompareTag("Sword") && _playerAnimationScript.comboStart)
+            {
+                DamagedEffect();
+            }
+
+            if (other.gameObject.CompareTag("Arrow"))
+            {
+                // destroy the arrow
+                if (!_isDead)
+                {
+                    Destroy(other.gameObject);
+                }
+                DamagedEffect();
             }
         }
     }
