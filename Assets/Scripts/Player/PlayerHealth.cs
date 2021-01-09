@@ -15,7 +15,6 @@ namespace Player
                 if (other.gameObject.GetComponent<Animator>().GetBool("isAttacking"))
                 {
                     health--;
-                    Debug.Log(health);
                 }
             }
         }

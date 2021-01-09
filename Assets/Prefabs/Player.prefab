@@ -182,14 +182,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1833692497431817334}
-  m_LocalRotation: {x: 0, y: 0, z: -0.3851008, w: 0.9228745}
-  m_LocalPosition: {x: -0.08, y: 0.18, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.3930505, w: 0.9195169}
+  m_LocalPosition: {x: -0.19100049, y: 0.059000026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 8955147993467143995}
   m_Father: {fileID: 3063368764759770051}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -45.3}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -46.289}
 --- !u!212 &1833692497431817321
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -389,6 +389,7 @@ GameObject:
   - component: {fileID: 3063368765674472008}
   - component: {fileID: 3063368765674472011}
   - component: {fileID: 733797257}
+  - component: {fileID: 1621607382}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -551,10 +552,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sword: {fileID: 3063368765806917093}
-  sowrdSlash_1: {fileID: 8300000, guid: a537db1a620536c42920a0de7340450c, type: 3}
-  sowrdSlash_2: {fileID: 8300000, guid: 9dc10b239dd69e9409c23e80a00f9d88, type: 3}
-  sowrdStab_1: {fileID: 8300000, guid: 4e73b235fd54b3246842fec6a33a00b3, type: 3}
+  swordSlash1: {fileID: 8300000, guid: a537db1a620536c42920a0de7340450c, type: 3}
+  swordSlash2: {fileID: 8300000, guid: 9dc10b239dd69e9409c23e80a00f9d88, type: 3}
+  swordStab1: {fileID: 8300000, guid: 4e73b235fd54b3246842fec6a33a00b3, type: 3}
   setTimer: 150
+  comboStart: 0
 --- !u!82 &733797257
 AudioSource:
   m_ObjectHideFlags: 0
@@ -651,6 +653,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1621607382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3063368765674472010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 738b4605d88ec4a99aca6a1fc465b5a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 10
 --- !u!1 &3063368765806917093
 GameObject:
   m_ObjectHideFlags: 0

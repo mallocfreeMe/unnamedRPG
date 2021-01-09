@@ -18,6 +18,7 @@ namespace Enemy
         public Transform originalTransform;
         public GameObject particleEffect;
         public GameObject bloodSplash;
+        public GameObject damageText;
 
         private AIPath _aiPath;
         private AIDestinationSetter _aiDestinationSetter;
@@ -110,10 +111,13 @@ namespace Enemy
         // play sign when enemy see the player 
         private IEnumerator PlaySign()
         {
-            sign.SetActive(true);
-            yield return new WaitForSeconds(2);
-            sign.SetActive(false);
-            _signIsShown = true;
+            if (!_isDead)
+            {
+                sign.SetActive(true);
+                yield return new WaitForSeconds(2);
+                sign.SetActive(false);
+                _signIsShown = true;
+            }
         }
         
         // wait 4 seconds then remove the enemy after its death
@@ -133,6 +137,10 @@ namespace Enemy
                 health--;
                 _audioSource.Play();
                 Instantiate(particleEffect, transform.position, Quaternion.identity);
+                var pos = new Vector3(transform.position.x + 0.2f, transform.position.y + 0.5f, -4);
+                var text = Instantiate(damageText, pos, Quaternion.identity);
+                text.GetComponent<Rigidbody2D>().velocity = (Vector2.up + Vector2.right).normalized;
+                Destroy(text, 0.5f);
             }
         }
         

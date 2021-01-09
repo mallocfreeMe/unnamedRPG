@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 716346728}
   - component: {fileID: 716346727}
   m_Layer: 0
-  m_Name: sign
+  m_Name: Sign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -336,6 +336,7 @@ MonoBehaviour:
   originalTransform: {fileID: 1210790644}
   particleEffect: {fileID: 6827049840259556030, guid: c3a224e90470a4cc68ec5dff843fe92e, type: 3}
   bloodSplash: {fileID: 7806408271658198531, guid: 408aba2e15cbe4dcd845e5c8e1acf0df, type: 3}
+  damageText: {fileID: 1210380568902980951, guid: c739d98829b4b433783d7a1bee39eb79, type: 3}
 --- !u!82 &610239497
 AudioSource:
   m_ObjectHideFlags: 0
