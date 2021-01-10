@@ -28,6 +28,7 @@ namespace Enemy
         private Transform _playerTransform;
         private PlayerAnimation _playerAnimationScript;
         private AudioSource _audioSource;
+        private GameObject _damageTextPrefab;
 
         private void Awake()
         {
@@ -106,6 +107,12 @@ namespace Enemy
                 _isDead = true;
                 StartCoroutine(PlayDeathAnimation());
             }
+
+            // damage text scale animation
+            if (_damageTextPrefab != null)
+            {
+                _damageTextPrefab.transform.localScale += new Vector3(0.02f, 0.02f, 0);
+            }
         }
 
         // play sign when enemy see the player 
@@ -119,7 +126,7 @@ namespace Enemy
                 _signIsShown = true;
             }
         }
-        
+
         // wait 4 seconds then remove the enemy after its death
         private IEnumerator PlayDeathAnimation()
         {
@@ -129,7 +136,9 @@ namespace Enemy
             Instantiate(bloodSplash, pos, Quaternion.identity);
         }
 
-        // when enemy take damage
+        // when an enemy takes damages, enemy loses its health
+        // displays particle effect
+        // displays damage text
         private void DamagedEffect()
         {
             if (!_isDead)
@@ -138,12 +147,13 @@ namespace Enemy
                 _audioSource.Play();
                 Instantiate(particleEffect, transform.position, Quaternion.identity);
                 var pos = new Vector3(transform.position.x + 0.2f, transform.position.y + 0.5f, -4);
-                var text = Instantiate(damageText, pos, Quaternion.identity);
-                text.GetComponent<Rigidbody2D>().velocity = (Vector2.up + Vector2.right).normalized;
-                Destroy(text, 0.5f);
+                _damageTextPrefab = Instantiate(damageText, pos, Quaternion.identity);
+                _damageTextPrefab.GetComponent<Rigidbody2D>().velocity = (Vector2.up + Vector2.right).normalized;
+                _damageTextPrefab.transform.localScale += new Vector3(1f, 1f, 0);
+                Destroy(_damageTextPrefab, 0.5f);
             }
         }
-        
+
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.gameObject.CompareTag("Sword") && _playerAnimationScript.comboStart)
@@ -158,6 +168,7 @@ namespace Enemy
                 {
                     Destroy(other.gameObject);
                 }
+
                 DamagedEffect();
             }
         }
