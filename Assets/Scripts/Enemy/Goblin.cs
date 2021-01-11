@@ -8,7 +8,7 @@ using Random = UnityEngine.Random;
 
 namespace Enemy
 {
-    public class Enemy : MonoBehaviour
+    public class Goblin : MonoBehaviour
     {
         public GameObject sign;
         public int maxSpeed = 5;
